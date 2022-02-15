@@ -36,3 +36,5 @@ PS D:\Dinossauro Bebado\Anubis\GUILHERME PIRES 20_\PROJETOS_.0\Tech\Programaçã
 Migrations for 'products':
   products\migrations\0001_initial.py
     - Create model Product
+
+    PS D:\Dinossauro Bebado\Anubis\GUILHERME PIRES 20_\PROJETOS_.0\Tech\Programação_\Python_\Django\Init\source> python manage.py shell
