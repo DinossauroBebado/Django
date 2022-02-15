@@ -23,3 +23,16 @@ charset-normalizer==2.0.12
 idna==3.3
 requests==2.27.1
 urllib3==1.26.8
+
+PS D:\Dinossauro Bebado\Anubis\GUILHERME PIRES 20_\PROJETOS_.0\Tech\Programação_\Python_\Django\Init\source> python manage.py runserver
+PS D:\Dinossauro Bebado\Anubis\GUILHERME PIRES 20_\PROJETOS_.0\Tech\Programação_\Python_\Django\Init\source> python manage.py migrate
+
+PS D:\Dinossauro Bebado\Anubis\GUILHERME PIRES 20_\PROJETOS_.0\Tech\Programação_\Python_\Django\Init\source> python manage.py createsuperuser
+dinossaurobebado
+initdjango
+
+PS D:\Dinossauro Bebado\Anubis\GUILHERME PIRES 20_\PROJETOS_.0\Tech\Programação_\Python_\Django\Init\source> python manage.py startapp products       
+PS D:\Dinossauro Bebado\Anubis\GUILHERME PIRES 20_\PROJETOS_.0\Tech\Programação_\Python_\Django\Init\source> python manage.py makemigrations          
+Migrations for 'products':
+  products\migrations\0001_initial.py
+    - Create model Product
